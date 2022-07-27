@@ -22,6 +22,7 @@ A couple of experiments that include:
 - Flutter + Dart
 - Elixir + Phoenix Framework
 - [Test Driven Development](https://www.geeksforgeeks.org/test-driven-development-tdd/?ref=gcse)
+- CI/CD (with TDD of course)
 - [Domain Driven Design](https://www.geeksforgeeks.org/domain-driven-design-ddd/)
 
 ### 🤔 I’m looking for help with ...
