@@ -18,12 +18,14 @@ A couple of experiments that include:
 
 ### 🌱 I’m currently learning ...
 
-- NextJS
-- Flutter + Dart
-- Elixir + Phoenix Framework
+In order of priority:
+- [Ansible](https://www.ansible.com/resources/get-started)
 - [Test Driven Development](https://www.geeksforgeeks.org/test-driven-development-tdd/?ref=gcse)
 - CI/CD (with TDD of course)
 - [Domain Driven Design](https://www.geeksforgeeks.org/domain-driven-design-ddd/)
+- Kubernetes
+- Flutter + Dart
+- Elixir + Phoenix Framework
 
 ### 🤔 I’m looking for help with ...
 
@@ -34,7 +36,7 @@ A couple of experiments that include:
 
 - Our lord and savior Elixir + Phoenix Framework
 - Why NextJS is so cool
-- Which movie recommendations I have
+- What movie recommendations I have
 
 ### 📫 How to reach me: ...
 
