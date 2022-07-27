@@ -45,7 +45,10 @@ A couple of experiments that include:
 
 ### ⚡ Fun fact: ...
 
-I am a knowledge-sponge about several subjects, including quantum mechanics, astrophysics, biology, medicine, movies and tv-series. For some strage reason this information takes priority over people's names. Yeah, it is weird.
+I am a knowledge-sponge about several subjects, including quantum mechanics, astrophysics, biology, medicine, movies and tv-series. For some strange reason my brain gives it a big priority to this information, so events and people's names get purged from my memory every once in a while. Yeah, it is weird.
+
+
+### TL;DR
 
 <!-- YOU MIGHT BE WANDERING, "WHY THE F*** DID YOU BUILT THIS WITH HTML TABLES??"... JUST FOR GIGGLES -->
 <table>
