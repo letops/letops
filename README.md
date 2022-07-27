@@ -2,6 +2,8 @@
 
 Obviously, I am a developer. I have over 8 years of experience working as a freelance, co-founder, technical lead, account manager and much more. I am experienced with all stages of development for web applications.
 
+My Github is connected to several organizations because I like to give my client's full access to their code and any software used. (Just for their own sanity and in case I choke with a boneless wing)
+
 ### 🔭 Currently working on...
 
 Django + Wagtail + React + Netlify Functions in:
