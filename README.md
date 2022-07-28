@@ -26,8 +26,7 @@ In order of priority:
 - [Kubernetes](https://kubernetes.io/)
 - [Flutter + Dart](https://flutter.dev/)
 - [Elixir + Phoenix Framework](https://www.phoenixframework.org/)
-
-and [others](https://www.gettoby.com/p/xxhnvcmyrygq)
+- and [others](https://www.gettoby.com/p/xxhnvcmyrygq)
 
 ### 🤔 I’m looking for help with ...
 
