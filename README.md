@@ -27,6 +27,8 @@ In order of priority:
 - [Flutter + Dart](https://flutter.dev/)
 - [Elixir + Phoenix Framework](https://www.phoenixframework.org/)
 
+and [others](https://www.gettoby.com/p/xxhnvcmyrygq)
+
 ### 🤔 I’m looking for help with ...
 
 - Testing my current projects
