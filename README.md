@@ -21,7 +21,6 @@ Django + Wagtail + NextJS + Netlify Functions in:
 - [MedGlobal](https://www.medglobalgroup.com/?referrer=letops)
 - [MedGlobal's INSIGHTS](https://insights.medglobalgroup.com/?referrer=letops)
 - [INESA](https://app.inesa.com.mx/?referrer=letops)
-- [Nunuu](https://www.nunuu.mx/?referrer=letops)
 
 A couple of experiments that include:
 - NextJS: a boilerplate that wraps MUI, Apollo, i18n and much more. (Compatible with Netlify and Vercel)
