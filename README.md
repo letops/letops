@@ -8,9 +8,9 @@ My Github is connected to several organizations because I like to give my client
 - Django: > 6 years
 - React: > 5 years
 - DevOps (basic servers management + security): > 5 years
+- NextJS: > 2 years
 - React Native: > 2 years
 - Phoenix Framework: ~ 2 years
-- NextJS: > 1 year
 - Java: > 1 year
 - .NET with C# : > 1 year
 - Kubernetes: < 1 year
