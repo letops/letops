@@ -1,6 +1,6 @@
 ## Daniel here
 
-Obviously, I am a developer. I have over 8 years of experience working as a freelance, co-founder, technical lead, account manager and much more. I am experienced with all stages of development for web applications.
+Obviously, I am a developer. I have over 8 years of professional experience in different roles: freelance, co-founder, technical lead, account manager and much more. I am experienced with all stages of development for web applications.
 
 My Github is connected to several organizations because I like to give my client's full access to their code and any software used. (Just for their own sanity and in case I choke with a boneless wing)
 
@@ -8,7 +8,7 @@ My Github is connected to several organizations because I like to give my client
 - Django: > 6 years
 - React: > 5 years
 - DevOps (basic servers management + security): > 5 years
-- NextJS: > 2 years
+- NextJS: > 3 years
 - React Native: > 2 years
 - Phoenix Framework: ~ 2 years
 - Java: > 1 year
@@ -17,20 +17,26 @@ My Github is connected to several organizations because I like to give my client
 
 ### 🔭 Currently working on...
 
-Django + Wagtail + NextJS + Netlify Functions in:
+Django + Wagtail + NextJS in:
 - [MedGlobal](https://www.medglobalgroup.com/?referrer=letops)
 - [MedGlobal's INSIGHTS](https://insights.medglobalgroup.com/?referrer=letops)
 - [INESA](https://app.inesa.com.mx/?referrer=letops)
 
+Strapi + NextJS + Tailwind + ShadCN:
+- [My Portfolio site](https://www.foxm.xyz)
+
 A couple of experiments that include:
-- NextJS: a boilerplate that wraps MUI, Apollo, i18n and much more. (Compatible with Netlify and Vercel)
-- ~~A petite admin: something that uses Netlify Identities and pulls data from Google Drive~~ Edit: I am no longer in love with Netlify
+- NextJS: a boilerplate that wraps MUI, Apollo, i18n and much more.
+- ~~A petite admin: something that uses Netlify Identities and pulls data from Google Drive~~ Edit: I am no longer in love with Netlify after Vercel came into my life
 - **Soon**. Vercel integrations library. I love the analytics and some other integrations that connect with Vercel like Axiom. I will develop a library of code snippets to make these integrations 
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning and improving my skills in ...
 
 In order of priority:
 - [Ansible](https://www.ansible.com/resources/get-started)
+- [Tailwind](https://tailwindcss.com/)
+- [ShadCN/UI](https://ui.shadcn.com/)
+- [Obsidian](https://obsidian.md/)
 - [Test Driven Development](https://www.geeksforgeeks.org/test-driven-development-tdd/?ref=gcse)
 - CI/CD (with TDD of course, [CircleCI](https://circleci.com/))
 - [Domain Driven Design](https://www.geeksforgeeks.org/domain-driven-design-ddd/)
@@ -59,7 +65,7 @@ In order of priority:
 
 ### ⚡ Fun fact: ...
 
-I am a knowledge-sponge about several subjects, including quantum mechanics, astrophysics, biology, medicine, movies and tv-series. For some strange reason my brain gives it a big priority to this information, so events and people's names get purged from my memory every once in a while. Yeah, it is weird.
+I am a knowledge-sponge about several subjects, including quantum mechanics, astrophysics, biology, medicine, movies and tv-series.
 
 
 ### TL;DR
