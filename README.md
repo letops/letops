@@ -23,7 +23,8 @@ Django + Wagtail + NextJS in:
 - [INESA](https://app.inesa.com.mx/?referrer=letops)
 
 Strapi + NextJS + Tailwind + ShadCN:
-- [My Portfolio site](https://www.foxm.xyz)
+- [My Portfolio site](https://www.foxm.xyz) (coming soon)
+- Habitatio (coming soon)
 
 A couple of experiments that include:
 - NextJS: a boilerplate that wraps MUI, Apollo, i18n and much more.
